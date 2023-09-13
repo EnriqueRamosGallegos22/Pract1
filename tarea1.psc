@@ -27,13 +27,9 @@ Algoritmo tarea1
 	FinSi
 	
 	si m%2=0 Entonces
-		Escribir m," es un número par"
+		Escribir m," es un nÃºmero par"
 	SiNo
-		Escribir m," no es un número par"
-	FinSi
-	Si m > 10 y m < 100 Entonces
-		Escribir "El: ",numero1 ," si esta entre 10 a 100"
-	finsi
+		Escribir m," no es un nÃºmero par"
 
 	   
 	
