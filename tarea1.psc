@@ -10,7 +10,7 @@ Algoritmo tarea1
 	leer n1
 	Escribir "Teclea otro numero"
 	leer n2
-
+		
 	//determinamos si n1 es mayor
 	si n1>n2 Entonces
 		Escribir n1," Es mayor que ", n2
@@ -24,8 +24,10 @@ Algoritmo tarea1
 	FinSi
 	
 	si m%2=0 Entonces
-		Escribir m," es un número par"
+		Escribir m," es un nÃºmero par"
 	SiNo
-		Escribir m," no es un número par"
+		Escribir m," no es un nÃºmero par"
 	FinSi
+
+	
 FinAlgoritmo
